@@ -162,7 +162,7 @@ function App() {
                       .getElementById("opportunities")
                       ?.scrollIntoView({ behavior: "smooth" })
                   }
-                  className="bg-[#f8f3e8] text-[#174a38] hover:bg-[#ede5d5]"
+                  className="!bg-[#174a38] !text-white hover:!bg-[#fffdf7] hover:!text-[#174a38]"
                 >
                   Explore Opportunities
                 </Button>
